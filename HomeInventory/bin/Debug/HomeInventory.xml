@@ -1,0 +1,206 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HomeInventory
+</name>
+</assembly>
+<members>
+<member name="T:HomeInventory.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HomeInventory.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HomeInventory.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:HomeInventory.My.Resources.Resources.Gradient_blue_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HomeInventory.My.Resources.Resources.icon_inventory">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet.Items_DataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet.Items_DataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet.Items_DataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSetTableAdapters.Items_DataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HomeInventory._HomeInventory_accdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HomeInventory._HomeInventory_accdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HomeInventory._HomeInventory_accdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager.UpdateAll(HomeInventory._HomeInventory_accdbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Clients_DataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Items_DataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Transactions_DataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Clients_DataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Items_DataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Transactions_DataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Clients_DataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Items_DataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1.Transactions_DataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.Clients_DataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.Items_DataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.Transactions_DataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(HomeInventory._HomeInventory_accdbDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(HomeInventory._HomeInventory_accdbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(HomeInventory._HomeInventory_accdbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager.UpdateAll(HomeInventory._HomeInventory_accdbDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:HomeInventory._HomeInventory_accdbDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

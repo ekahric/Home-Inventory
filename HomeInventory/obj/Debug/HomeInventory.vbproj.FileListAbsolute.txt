@@ -1,0 +1,16 @@
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\bin\Debug\HomeInventory.exe.config
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\bin\Debug\HomeInventory.exe
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\bin\Debug\HomeInventory.pdb
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\bin\Debug\HomeInventory.xml
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.vbprojAssemblyReference.cache
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.frmHome.resources
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.frmMain.resources
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.Resources.resources
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.vbproj.GenerateResource.cache
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.exe
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.xml
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.pdb
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.frmClients.resources
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.frmReport.resources
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.CTR.resources
+C:\Users\ekahr\Desktop\HomeInventory\HomeInventory\obj\Debug\HomeInventory.RTransact.resources
